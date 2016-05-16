@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+.idea/
+npm-debug.log
+*.log
+dump.rdb
+build/
+coverage/
+src/libs/
+src/assets/libs/
